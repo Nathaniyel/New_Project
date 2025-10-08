@@ -36,7 +36,11 @@ A complete backend API for Personal Expense Tracker built with Node.js, Express,
 1. **Install dependencies:**
    ```bash
    npm install
+2. **Run Backend:**
 
+   ```bash
+
+   npm run dev
 
 
 
@@ -58,3 +62,10 @@ A React frontend for the Personal Expense Tracker application.
 1. **Install dependencies:**
    ```bash
    npm install
+
+2. **Run Frontend:**
+
+   ```bash
+
+   npm start
+
